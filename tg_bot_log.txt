@@ -1,0 +1,286 @@
+2025-09-11 19:24:00,599 - INFO - Connected to MT5 - Mode: live
+2025-09-11 19:24:00,602 - INFO - TradeExecutor ready for GBPUSD
+2025-09-11 19:24:00,603 - INFO - TradeExecutor initialized successfully
+2025-09-11 19:24:00,603 - INFO - Starting Trading Geek Bot main loop
+2025-09-11 19:24:00,641 - INFO - Signal generated: BUY
+2025-09-11 19:24:00,657 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35813, stoplimit=0.0, sl=1.35613, tp=1.36213, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:24:00,657 - ERROR - BUY order failed
+2025-09-11 19:29:00,931 - INFO - Signal generated: BUY
+2025-09-11 19:29:00,979 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35768, stoplimit=0.0, sl=1.35568, tp=1.36168, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:29:00,980 - ERROR - BUY order failed
+2025-09-11 19:30:00,981 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:31:01,120 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:32:01,125 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:33:01,129 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:34:01,134 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:35:01,141 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:36:01,143 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:37:01,145 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:38:01,387 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:39:01,419 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:40:01,422 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:41:01,426 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:42:01,429 - ERROR - Failed to fetch data for GBPUSD
+2025-09-11 19:43:02,308 - INFO - Connected to MT5 - Mode: live
+2025-09-11 19:43:02,309 - INFO - TradeExecutor ready for GBPUSD
+2025-09-11 19:43:02,309 - INFO - TradeExecutor initialized successfully
+2025-09-11 19:43:02,309 - INFO - Starting Trading Geek Bot main loop
+2025-09-11 19:44:02,382 - INFO - Signal generated: BUY
+2025-09-11 19:44:02,395 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3574, stoplimit=0.0, sl=1.3554, tp=1.3614, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:44:02,396 - ERROR - BUY order failed
+2025-09-11 19:45:02,400 - INFO - Signal generated: BUY
+2025-09-11 19:45:02,401 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35733, stoplimit=0.0, sl=1.35533, tp=1.36133, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:45:02,401 - ERROR - BUY order failed
+2025-09-11 19:46:02,410 - INFO - Signal generated: SELL
+2025-09-11 19:46:02,413 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35721, stoplimit=0.0, sl=1.35921, tp=1.35321, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:46:02,414 - ERROR - SELL order failed
+2025-09-11 19:49:02,433 - INFO - Signal generated: SELL
+2025-09-11 19:49:02,435 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35691, stoplimit=0.0, sl=1.35891, tp=1.35291, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:49:02,435 - ERROR - SELL order failed
+2025-09-11 19:50:02,444 - INFO - Signal generated: BUY
+2025-09-11 19:50:02,447 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35697, stoplimit=0.0, sl=1.35497, tp=1.36097, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:50:02,447 - ERROR - BUY order failed
+2025-09-11 19:51:02,454 - INFO - Signal generated: SELL
+2025-09-11 19:51:02,458 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.357, stoplimit=0.0, sl=1.359, tp=1.353, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:51:02,459 - ERROR - SELL order failed
+2025-09-11 19:52:02,466 - INFO - Signal generated: BUY
+2025-09-11 19:52:02,468 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3569499999999999, stoplimit=0.0, sl=1.3549499999999999, tp=1.3609499999999999, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:52:02,469 - ERROR - BUY order failed
+2025-09-11 19:53:02,476 - INFO - Signal generated: BUY
+2025-09-11 19:53:02,478 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35727, stoplimit=0.0, sl=1.35527, tp=1.36127, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:53:02,478 - ERROR - BUY order failed
+2025-09-11 19:54:02,486 - INFO - Signal generated: SELL
+2025-09-11 19:54:02,488 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3571900000000001, stoplimit=0.0, sl=1.3591900000000001, tp=1.3531900000000001, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:54:02,489 - ERROR - SELL order failed
+2025-09-11 19:55:02,496 - INFO - Signal generated: SELL
+2025-09-11 19:55:02,498 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3572, stoplimit=0.0, sl=1.3592, tp=1.3532, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:55:02,499 - ERROR - SELL order failed
+2025-09-11 19:56:02,506 - INFO - Signal generated: SELL
+2025-09-11 19:56:02,510 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35716, stoplimit=0.0, sl=1.35916, tp=1.35316, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:56:02,510 - ERROR - SELL order failed
+2025-09-11 19:57:02,518 - INFO - Signal generated: SELL
+2025-09-11 19:57:02,520 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3571900000000001, stoplimit=0.0, sl=1.3591900000000001, tp=1.3531900000000001, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:57:02,520 - ERROR - SELL order failed
+2025-09-11 19:58:02,524 - INFO - Signal generated: SELL
+2025-09-11 19:58:02,525 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35703, stoplimit=0.0, sl=1.35903, tp=1.35303, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:58:02,525 - ERROR - SELL order failed
+2025-09-11 19:59:02,532 - INFO - Signal generated: BUY
+2025-09-11 19:59:02,536 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35714, stoplimit=0.0, sl=1.35514, tp=1.36114, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 19:59:02,536 - ERROR - BUY order failed
+2025-09-11 20:00:02,543 - INFO - Signal generated: SELL
+2025-09-11 20:00:02,545 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35709, stoplimit=0.0, sl=1.35909, tp=1.35309, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:00:02,547 - ERROR - SELL order failed
+2025-09-11 20:02:02,561 - INFO - Signal generated: SELL
+2025-09-11 20:02:02,563 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35707, stoplimit=0.0, sl=1.35907, tp=1.35307, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:02:02,564 - ERROR - SELL order failed
+2025-09-11 20:03:02,571 - INFO - Signal generated: BUY
+2025-09-11 20:03:02,575 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35728, stoplimit=0.0, sl=1.35528, tp=1.36128, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:03:02,575 - ERROR - BUY order failed
+2025-09-11 20:06:02,654 - INFO - Signal generated: BUY
+2025-09-11 20:06:02,656 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35744, stoplimit=0.0, sl=1.35544, tp=1.36144, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:06:02,657 - ERROR - BUY order failed
+2025-09-11 20:07:02,664 - INFO - Signal generated: SELL
+2025-09-11 20:07:02,666 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35745, stoplimit=0.0, sl=1.35945, tp=1.35345, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:07:02,666 - ERROR - SELL order failed
+2025-09-11 20:08:02,675 - INFO - Signal generated: BUY
+2025-09-11 20:08:02,678 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35734, stoplimit=0.0, sl=1.35534, tp=1.36134, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:08:02,679 - ERROR - BUY order failed
+2025-09-11 20:09:02,718 - INFO - Signal generated: BUY
+2025-09-11 20:09:02,720 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35733, stoplimit=0.0, sl=1.35533, tp=1.36133, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:09:02,721 - ERROR - BUY order failed
+2025-09-11 20:12:02,774 - INFO - Signal generated: SELL
+2025-09-11 20:12:02,807 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35746, stoplimit=0.0, sl=1.3594600000000001, tp=1.35346, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:12:02,809 - ERROR - SELL order failed
+2025-09-11 20:13:02,816 - INFO - Signal generated: SELL
+2025-09-11 20:13:02,819 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35728, stoplimit=0.0, sl=1.35928, tp=1.35328, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:13:02,820 - ERROR - SELL order failed
+2025-09-11 20:15:02,864 - INFO - Signal generated: BUY
+2025-09-11 20:15:02,869 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35748, stoplimit=0.0, sl=1.35548, tp=1.36148, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:15:02,871 - ERROR - BUY order failed
+2025-09-11 20:17:02,916 - INFO - Signal generated: SELL
+2025-09-11 20:17:02,920 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35739, stoplimit=0.0, sl=1.35939, tp=1.35339, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:17:02,920 - ERROR - SELL order failed
+2025-09-11 20:18:02,928 - INFO - Signal generated: SELL
+2025-09-11 20:18:02,930 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35741, stoplimit=0.0, sl=1.35941, tp=1.35341, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:18:02,930 - ERROR - SELL order failed
+2025-09-11 20:32:42,787 - INFO - Signal generated: SELL
+2025-09-11 20:32:42,802 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35745, stoplimit=0.0, sl=1.35945, tp=1.35345, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:32:42,802 - ERROR - SELL order failed
+2025-09-11 20:33:42,840 - INFO - Signal generated: BUY
+2025-09-11 20:33:42,843 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35757, stoplimit=0.0, sl=1.35557, tp=1.36157, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:33:42,843 - ERROR - BUY order failed
+2025-09-11 20:34:42,880 - INFO - Signal generated: SELL
+2025-09-11 20:34:42,883 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35751, stoplimit=0.0, sl=1.35951, tp=1.35351, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:34:42,883 - ERROR - SELL order failed
+2025-09-11 20:35:42,924 - INFO - Signal generated: SELL
+2025-09-11 20:35:42,927 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35739, stoplimit=0.0, sl=1.35939, tp=1.35339, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:35:42,929 - ERROR - SELL order failed
+2025-09-11 20:36:42,967 - INFO - Signal generated: BUY
+2025-09-11 20:36:42,971 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35745, stoplimit=0.0, sl=1.35545, tp=1.36145, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:36:42,972 - ERROR - BUY order failed
+2025-09-11 20:38:43,017 - INFO - Signal generated: BUY
+2025-09-11 20:38:43,019 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35742, stoplimit=0.0, sl=1.35542, tp=1.36142, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:38:43,020 - ERROR - BUY order failed
+2025-09-11 20:39:43,059 - INFO - Signal generated: BUY
+2025-09-11 20:39:43,061 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3575, stoplimit=0.0, sl=1.3555, tp=1.3615, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:39:43,062 - ERROR - BUY order failed
+2025-09-11 20:40:43,103 - INFO - Signal generated: BUY
+2025-09-11 20:40:43,106 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35765, stoplimit=0.0, sl=1.35565, tp=1.36165, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:40:43,106 - ERROR - BUY order failed
+2025-09-11 20:41:43,114 - INFO - Signal generated: BUY
+2025-09-11 20:41:43,116 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35765, stoplimit=0.0, sl=1.35565, tp=1.36165, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:41:43,117 - ERROR - BUY order failed
+2025-09-11 20:42:43,161 - INFO - Signal generated: BUY
+2025-09-11 20:42:43,174 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35773, stoplimit=0.0, sl=1.35573, tp=1.36173, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:42:43,174 - ERROR - BUY order failed
+2025-09-11 20:43:43,216 - INFO - Signal generated: SELL
+2025-09-11 20:43:43,220 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35759, stoplimit=0.0, sl=1.35959, tp=1.35359, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:43:43,221 - ERROR - SELL order failed
+2025-09-11 20:44:43,267 - INFO - Signal generated: SELL
+2025-09-11 20:44:43,270 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3575, stoplimit=0.0, sl=1.3595, tp=1.3535, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:44:43,271 - ERROR - SELL order failed
+2025-09-11 20:45:43,310 - INFO - Signal generated: BUY
+2025-09-11 20:45:43,312 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35764, stoplimit=0.0, sl=1.35564, tp=1.36164, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:45:43,312 - ERROR - BUY order failed
+2025-09-11 20:47:43,359 - INFO - Signal generated: BUY
+2025-09-11 20:47:43,360 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3577, stoplimit=0.0, sl=1.3557, tp=1.3617, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:47:43,360 - ERROR - BUY order failed
+2025-09-11 20:48:43,401 - INFO - Signal generated: BUY
+2025-09-11 20:48:43,405 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35781, stoplimit=0.0, sl=1.35581, tp=1.36181, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:48:43,406 - ERROR - BUY order failed
+2025-09-11 20:49:43,419 - INFO - Signal generated: BUY
+2025-09-11 20:49:43,422 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35775, stoplimit=0.0, sl=1.35575, tp=1.36175, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:49:43,422 - ERROR - BUY order failed
+2025-09-11 20:50:43,431 - INFO - Signal generated: BUY
+2025-09-11 20:50:43,466 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35782, stoplimit=0.0, sl=1.35582, tp=1.36182, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:50:43,466 - ERROR - BUY order failed
+2025-09-11 20:51:43,472 - INFO - Signal generated: BUY
+2025-09-11 20:51:43,475 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3578700000000001, stoplimit=0.0, sl=1.3558700000000001, tp=1.3618700000000001, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:51:43,477 - ERROR - BUY order failed
+2025-09-11 20:52:43,484 - INFO - Signal generated: BUY
+2025-09-11 20:52:43,487 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35802, stoplimit=0.0, sl=1.35602, tp=1.36202, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:52:43,487 - ERROR - BUY order failed
+2025-09-11 20:53:43,522 - INFO - Signal generated: BUY
+2025-09-11 20:53:43,524 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3580999999999999, stoplimit=0.0, sl=1.3560999999999999, tp=1.3620999999999999, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:53:43,525 - ERROR - BUY order failed
+2025-09-11 20:54:43,562 - INFO - Signal generated: SELL
+2025-09-11 20:54:43,564 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35798, stoplimit=0.0, sl=1.35998, tp=1.35398, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:54:43,565 - ERROR - SELL order failed
+2025-09-11 20:55:43,599 - INFO - Signal generated: SELL
+2025-09-11 20:55:43,601 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35801, stoplimit=0.0, sl=1.36001, tp=1.35401, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:55:43,601 - ERROR - SELL order failed
+2025-09-11 20:56:43,604 - INFO - Signal generated: SELL
+2025-09-11 20:56:43,607 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35796, stoplimit=0.0, sl=1.35996, tp=1.35396, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:56:43,607 - ERROR - SELL order failed
+2025-09-11 20:57:43,641 - INFO - Signal generated: BUY
+2025-09-11 20:57:43,645 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35822, stoplimit=0.0, sl=1.35622, tp=1.36222, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:57:43,645 - ERROR - BUY order failed
+2025-09-11 20:58:43,679 - INFO - Signal generated: SELL
+2025-09-11 20:58:43,680 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35796, stoplimit=0.0, sl=1.35996, tp=1.35396, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:58:43,681 - ERROR - SELL order failed
+2025-09-11 20:59:43,684 - INFO - Signal generated: BUY
+2025-09-11 20:59:43,686 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35803, stoplimit=0.0, sl=1.35603, tp=1.36203, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 20:59:43,686 - ERROR - BUY order failed
+2025-09-11 21:00:43,719 - INFO - Signal generated: BUY
+2025-09-11 21:00:43,721 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35794, stoplimit=0.0, sl=1.35594, tp=1.36194, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:00:43,721 - ERROR - BUY order failed
+2025-09-11 21:01:43,754 - INFO - Signal generated: SELL
+2025-09-11 21:01:43,756 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35771, stoplimit=0.0, sl=1.35971, tp=1.35371, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:01:43,756 - ERROR - SELL order failed
+2025-09-11 21:02:43,797 - INFO - Signal generated: SELL
+2025-09-11 21:02:43,798 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35777, stoplimit=0.0, sl=1.35977, tp=1.35377, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:02:43,798 - ERROR - SELL order failed
+2025-09-11 21:03:43,832 - INFO - Signal generated: SELL
+2025-09-11 21:03:43,833 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3578700000000001, stoplimit=0.0, sl=1.3598700000000001, tp=1.3538700000000001, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:03:43,834 - ERROR - SELL order failed
+2025-09-11 21:04:43,869 - INFO - Signal generated: BUY
+2025-09-11 21:04:43,871 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35792, stoplimit=0.0, sl=1.35592, tp=1.36192, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:04:43,871 - ERROR - BUY order failed
+2025-09-11 21:05:43,890 - INFO - Signal generated: BUY
+2025-09-11 21:05:43,910 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35796, stoplimit=0.0, sl=1.35596, tp=1.36196, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:05:43,910 - ERROR - BUY order failed
+2025-09-11 21:06:43,953 - INFO - Signal generated: BUY
+2025-09-11 21:06:43,956 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35813, stoplimit=0.0, sl=1.35613, tp=1.36213, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:06:43,956 - ERROR - BUY order failed
+2025-09-11 21:07:43,961 - INFO - Signal generated: BUY
+2025-09-11 21:07:43,964 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3581400000000001, stoplimit=0.0, sl=1.3561400000000001, tp=1.3621400000000001, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:07:43,964 - ERROR - BUY order failed
+2025-09-11 21:08:43,997 - INFO - Signal generated: SELL
+2025-09-11 21:08:44,001 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35802, stoplimit=0.0, sl=1.36002, tp=1.35402, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:08:44,002 - ERROR - SELL order failed
+2025-09-11 21:09:44,037 - INFO - Signal generated: SELL
+2025-09-11 21:09:44,039 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35808, stoplimit=0.0, sl=1.36008, tp=1.35408, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:09:44,040 - ERROR - SELL order failed
+2025-09-11 21:10:44,072 - INFO - Signal generated: BUY
+2025-09-11 21:10:44,074 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35813, stoplimit=0.0, sl=1.35613, tp=1.36213, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:10:44,075 - ERROR - BUY order failed
+2025-09-11 21:11:44,112 - INFO - Signal generated: SELL
+2025-09-11 21:11:44,114 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35802, stoplimit=0.0, sl=1.36002, tp=1.35402, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:11:44,114 - ERROR - SELL order failed
+2025-09-11 21:12:44,154 - INFO - Signal generated: BUY
+2025-09-11 21:12:44,157 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35798, stoplimit=0.0, sl=1.35598, tp=1.36198, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:12:44,158 - ERROR - BUY order failed
+2025-09-11 21:13:44,196 - INFO - Signal generated: BUY
+2025-09-11 21:13:44,199 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.358, stoplimit=0.0, sl=1.356, tp=1.362, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:13:44,201 - ERROR - BUY order failed
+2025-09-11 21:14:44,234 - INFO - Signal generated: SELL
+2025-09-11 21:14:44,237 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35784, stoplimit=0.0, sl=1.35984, tp=1.35384, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:14:44,237 - ERROR - SELL order failed
+2025-09-11 21:15:44,252 - INFO - Signal generated: BUY
+2025-09-11 21:15:44,256 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35803, stoplimit=0.0, sl=1.35603, tp=1.36203, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:15:44,256 - ERROR - BUY order failed
+2025-09-11 21:17:44,269 - INFO - Signal generated: BUY
+2025-09-11 21:17:44,272 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35806, stoplimit=0.0, sl=1.35606, tp=1.36206, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:17:44,272 - ERROR - BUY order failed
+2025-09-11 21:18:44,306 - INFO - Signal generated: SELL
+2025-09-11 21:18:44,309 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.358, stoplimit=0.0, sl=1.36, tp=1.354, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:18:44,309 - ERROR - SELL order failed
+2025-09-11 21:19:44,352 - INFO - Signal generated: SELL
+2025-09-11 21:19:44,355 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35797, stoplimit=0.0, sl=1.35997, tp=1.35397, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:19:44,355 - ERROR - SELL order failed
+2025-09-11 21:20:44,360 - INFO - Signal generated: BUY
+2025-09-11 21:20:44,362 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35803, stoplimit=0.0, sl=1.35603, tp=1.36203, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:20:44,362 - ERROR - BUY order failed
+2025-09-11 21:21:44,375 - INFO - Signal generated: SELL
+2025-09-11 21:21:44,389 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35793, stoplimit=0.0, sl=1.35993, tp=1.35393, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:21:44,389 - ERROR - SELL order failed
+2025-09-11 21:22:44,394 - INFO - Signal generated: BUY
+2025-09-11 21:22:44,396 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35802, stoplimit=0.0, sl=1.35602, tp=1.36202, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:22:44,397 - ERROR - BUY order failed
+2025-09-11 21:23:44,435 - INFO - Signal generated: SELL
+2025-09-11 21:23:44,440 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35793, stoplimit=0.0, sl=1.35993, tp=1.35393, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:23:44,441 - ERROR - SELL order failed
+2025-09-11 21:24:44,474 - INFO - Signal generated: BUY
+2025-09-11 21:24:44,477 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35801, stoplimit=0.0, sl=1.35601, tp=1.36201, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:24:44,478 - ERROR - BUY order failed
+2025-09-11 21:25:44,516 - INFO - Signal generated: SELL
+2025-09-11 21:25:44,518 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35789, stoplimit=0.0, sl=1.35989, tp=1.35389, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:25:44,518 - ERROR - SELL order failed
+2025-09-11 21:26:44,521 - INFO - Signal generated: SELL
+2025-09-11 21:26:44,523 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35789, stoplimit=0.0, sl=1.35989, tp=1.35389, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:26:44,524 - ERROR - SELL order failed
+2025-09-11 21:27:44,531 - INFO - Signal generated: SELL
+2025-09-11 21:27:44,536 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35784, stoplimit=0.0, sl=1.35984, tp=1.35384, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:27:44,538 - ERROR - SELL order failed
+2025-09-11 21:28:44,546 - INFO - Signal generated: BUY
+2025-09-11 21:28:44,552 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3578999999999999, stoplimit=0.0, sl=1.3558999999999999, tp=1.3618999999999999, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:28:44,554 - ERROR - BUY order failed
+2025-09-11 21:29:44,558 - INFO - Signal generated: SELL
+2025-09-11 21:29:44,587 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35779, stoplimit=0.0, sl=1.35979, tp=1.35379, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:29:44,588 - ERROR - SELL order failed
+2025-09-11 21:30:44,595 - INFO - Signal generated: SELL
+2025-09-11 21:30:44,597 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.3578000000000001, stoplimit=0.0, sl=1.3598000000000001, tp=1.3538000000000001, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:30:44,627 - ERROR - SELL order failed
+2025-09-11 21:31:44,665 - INFO - Signal generated: SELL
+2025-09-11 21:31:44,677 - ERROR - Order failed (SELL): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35777, stoplimit=0.0, sl=1.35977, tp=1.35377, deviation=10, type=1, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:31:44,677 - ERROR - SELL order failed
+2025-09-11 21:32:44,696 - INFO - Signal generated: BUY
+2025-09-11 21:32:44,699 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35776, stoplimit=0.0, sl=1.35576, tp=1.36176, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:32:44,700 - ERROR - BUY order failed
+2025-09-11 21:33:44,703 - INFO - Signal generated: BUY
+2025-09-11 21:33:44,705 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35785, stoplimit=0.0, sl=1.35585, tp=1.36185, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 21:33:44,706 - ERROR - BUY order failed
+2025-09-11 22:44:30,139 - INFO - Signal generated: BUY
+2025-09-11 22:44:30,324 - ERROR - Order failed (BUY): OrderSendResult(retcode=10030, deal=0, order=0, volume=0.0, price=0.0, bid=0.0, ask=0.0, comment='Unsupported filling mode', request_id=0, retcode_external=0, request=TradeRequest(action=1, magic=234000, order=0, symbol='GBPUSD', volume=0.1, price=1.35798, stoplimit=0.0, sl=1.35598, tp=1.36198, deviation=10, type=0, type_filling=1, type_time=0, expiration=0, comment='TG Bot Trade', position=0, position_by=0))
+2025-09-11 22:44:30,324 - ERROR - BUY order failed
+2025-09-11 22:46:19,151 - INFO - MT5 shutdown successfully

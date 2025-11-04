@@ -1,0 +1,993 @@
+2025-09-22 17:33:07 | Starting defensive SMC bot...
+2025-09-22 17:33:07 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35021)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:07 | Signal found but price not in any zone.
+2025-09-22 17:33:12 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:12 | Signal found but price not in any zone.
+2025-09-22 17:33:17 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:17 | Signal found but price not in any zone.
+2025-09-22 17:33:22 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:22 | Signal found but price not in any zone.
+2025-09-22 17:33:27 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:27 | Signal found but price not in any zone.
+2025-09-22 17:33:32 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:32 | Signal found but price not in any zone.
+2025-09-22 17:33:37 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:37 | Signal found but price not in any zone.
+2025-09-22 17:33:42 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:42 | Signal found but price not in any zone.
+2025-09-22 17:33:47 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:47 | Signal found but price not in any zone.
+2025-09-22 17:33:52 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:52 | Signal found but price not in any zone.
+2025-09-22 17:33:58 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:33:58 | Signal found but price not in any zone.
+2025-09-22 17:34:03 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:34:03 | Signal found but price not in any zone.
+2025-09-22 17:34:08 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:34:08 | Signal found but price not in any zone.
+2025-09-22 17:34:13 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:34:13 | Signal found but price not in any zone.
+2025-09-22 17:34:18 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:34:18 | Signal found but price not in any zone.
+2025-09-22 17:34:23 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:34:23 | Signal found but price not in any zone.
+2025-09-22 17:34:28 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:34:28 | Signal found but price not in any zone.
+2025-09-22 17:34:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:34:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:34:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:34:48 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:34:53 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:34:58 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:20 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:25 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:30 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:35 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:40 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:35:43 | Stopping via KeyboardInterrupt.
+2025-09-22 17:35:43 | MT5 shutdown complete.
+2025-09-22 17:37:38 | Starting defensive SMC bot...
+2025-09-22 17:37:38 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35016)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:37:38 | Signal found but price not in any zone.
+2025-09-22 17:37:43 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35018)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:37:43 | Signal found but price not in any zone.
+2025-09-22 17:37:49 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:37:49 | Signal found but price not in any zone.
+2025-09-22 17:37:54 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35019)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:37:54 | Signal found but price not in any zone.
+2025-09-22 17:37:59 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35016)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:37:59 | Signal found but price not in any zone.
+2025-09-22 17:38:04 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.3501)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:04 | Signal found but price not in any zone.
+2025-09-22 17:38:09 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.3501)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:09 | Signal found but price not in any zone.
+2025-09-22 17:38:14 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35017)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:14 | Signal found but price not in any zone.
+2025-09-22 17:38:19 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35017)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:19 | Signal found but price not in any zone.
+2025-09-22 17:38:24 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:24 | Signal found but price not in any zone.
+2025-09-22 17:38:29 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35011)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:29 | Signal found but price not in any zone.
+2025-09-22 17:38:34 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35018)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:34 | Signal found but price not in any zone.
+2025-09-22 17:38:39 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:39 | Signal found but price not in any zone.
+2025-09-22 17:38:44 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:44 | Signal found but price not in any zone.
+2025-09-22 17:38:49 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35021)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:49 | Signal found but price not in any zone.
+2025-09-22 17:38:54 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:54 | Signal found but price not in any zone.
+2025-09-22 17:38:59 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:38:59 | Signal found but price not in any zone.
+2025-09-22 17:39:04 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:04 | Signal found but price not in any zone.
+2025-09-22 17:39:09 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.3502)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:09 | Signal found but price not in any zone.
+2025-09-22 17:39:14 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35015)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:14 | Signal found but price not in any zone.
+2025-09-22 17:39:19 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35015)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:19 | Signal found but price not in any zone.
+2025-09-22 17:39:24 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:24 | Signal found but price not in any zone.
+2025-09-22 17:39:29 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:29 | Signal found but price not in any zone.
+2025-09-22 17:39:34 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:34 | Signal found but price not in any zone.
+2025-09-22 17:39:39 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:39 | Signal found but price not in any zone.
+2025-09-22 17:39:44 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:44 | Signal found but price not in any zone.
+2025-09-22 17:39:49 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:49 | Signal found but price not in any zone.
+2025-09-22 17:39:54 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:54 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:39:59 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:39:59 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:04 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:09 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:14 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:19 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:19 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:24 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:24 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:29 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:29 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:34 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:34 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:39 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:39 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:44 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:44 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:49 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:49 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:40:55 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:40:55 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:00 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:00 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:05 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:05 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:10 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:10 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:15 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:15 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:20 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:20 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:25 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:25 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:30 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:30 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:35 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:35 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:40 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:40 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:45 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:45 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:50 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:50 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:41:55 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:41:55 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:00 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:00 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:05 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:05 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:10 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:10 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:15 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:15 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:20 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:20 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:25 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:26 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:31 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:31 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:36 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:36 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:41 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:41 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:46 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:46 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:51 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:51 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:42:56 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:42:56 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:01 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:01 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:06 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:06 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:11 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:11 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:16 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:16 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:22 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:27 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:27 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:32 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:32 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:37 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:37 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:42 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:42 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:47 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:47 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:52 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:52 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:43:57 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:43:57 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:02 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:02 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:07 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:07 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:12 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:12 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:17 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:17 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:22 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:27 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:27 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:32 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:32 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:37 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:37 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:42 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:42 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:47 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:47 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:52 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:52 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:44:57 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:44:57 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:02 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:02 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:07 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:07 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:12 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:12 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:17 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:17 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:22 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:28 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:28 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:33 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:38 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:43 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:48 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:48 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:53 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:53 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:45:58 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:45:58 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:03 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:03 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:08 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:08 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:13 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:13 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:18 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:18 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:23 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:23 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:28 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:28 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:33 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:38 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:43 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:48 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:48 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:53 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:53 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:46:58 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:46:59 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:04 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:09 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:14 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:19 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:19 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:24 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:24 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:29 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:29 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:34 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:34 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:39 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35022)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:39 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:44 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34926), np.float64(1.34986)), 'last_closed_time': '2025-09-22 18:15:00'}
+2025-09-22 17:47:44 | Signal found but price not in any zone.
+2025-09-22 17:47:49 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:47:49 | Signal sell and price 1.35016 inside zone -> placing
+2025-09-22 17:47:54 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:47:54 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:47:59 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:47:59 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:04 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:09 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:14 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:19 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:19 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:24 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:24 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:29 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:29 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:34 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:34 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:39 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:40 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:45 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:45 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:50 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:50 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:48:55 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:48:55 | Signal sell and price 1.35023 inside zone -> placing
+2025-09-22 17:49:00 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:00 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:05 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:05 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:10 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:10 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:15 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:15 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:20 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:20 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:25 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:25 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:30 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:30 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:35 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:35 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:40 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:40 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:45 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:45 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:50 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:50 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:49:55 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:49:55 | Signal sell and price 1.3502399999999999 inside zone -> placing
+2025-09-22 17:50:00 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:00 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:05 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:05 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:10 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:10 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:15 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:15 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:20 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:20 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:25 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:25 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:31 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:31 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:36 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:36 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:41 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:41 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:46 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:46 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:51 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:51 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:50:56 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:50:56 | Signal sell and price 1.3501699999999999 inside zone -> placing
+2025-09-22 17:51:01 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:01 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:06 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:06 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:11 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:11 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:16 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:16 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:21 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:21 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:26 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:26 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:31 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:31 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:36 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:36 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:41 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:41 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:46 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:46 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:51 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:51 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:51:56 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:51:56 | Signal sell and price 1.35015 inside zone -> placing
+2025-09-22 17:52:01 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:01 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:06 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:06 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:12 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:12 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:17 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:17 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:22 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:27 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:32 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:32 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:37 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:37 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:42 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:42 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:47 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:47 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:52 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:52 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:52:57 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:52:57 | Signal sell and price 1.35005 inside zone -> placing
+2025-09-22 17:53:02 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:02 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:07 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:07 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:12 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:12 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:17 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:17 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:22 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:27 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:38 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:48 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:48 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:53 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:53 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:53:58 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:53:58 | Signal sell and price 1.35015 inside zone -> placing
+2025-09-22 17:54:03 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:03 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:08 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:08 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:13 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:13 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:18 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:18 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:23 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:23 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:28 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:28 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:38 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:54:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:54:48 | Stopping via KeyboardInterrupt.
+2025-09-22 17:54:48 | MT5 shutdown complete.
+2025-09-22 17:55:46 | Starting defensive SMC bot...
+2025-09-22 17:55:46 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:55:46 | Signal sell and price 1.35013 inside zone -> placing
+2025-09-22 17:55:51 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:55:51 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:55:56 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:55:56 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:01 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:01 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:06 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:06 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:11 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:11 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:16 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:16 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:21 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:21 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:26 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:26 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:31 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:32 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:37 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:37 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:42 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:42 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:47 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:47 | Signal sell and price 1.35016 inside zone -> placing
+2025-09-22 17:56:52 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:52 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:56:57 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:56:57 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:02 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:02 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:07 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:07 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:12 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:12 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:17 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:17 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:22 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:27 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:32 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:32 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:37 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:37 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:42 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:42 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:47 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:47 | Signal sell and price 1.3501699999999999 inside zone -> placing
+2025-09-22 17:57:52 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:52 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:57:57 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:57:57 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:02 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:02 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:07 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:07 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:12 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:12 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:17 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:17 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:22 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:28 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:38 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:48 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:48 | Signal sell and price 1.35016 inside zone -> placing
+2025-09-22 17:58:53 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:53 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:58:58 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:58:58 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:03 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:03 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:08 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:08 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:13 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:13 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:18 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:18 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:23 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:23 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:28 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:28 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:38 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:48 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:48 | Signal sell and price 1.35025 inside zone -> placing
+2025-09-22 17:59:53 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.34921), np.float64(1.35035)), 'last_closed_time': '2025-09-22 18:30:00'}
+2025-09-22 17:59:53 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 17:59:58 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 17:59:58 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:03 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:09 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:14 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:19 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:19 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:24 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:24 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:29 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:29 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:34 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:34 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:39 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:39 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:44 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:44 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:49 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:49 | Signal buy and price 1.35037 inside zone -> placing
+2025-09-22 18:00:54 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:54 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:00:59 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:00:59 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:01:04 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:01:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:01:09 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:01:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:01:14 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:01:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:01:19 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:01:19 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:01:24 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:01:24 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:01:28 | Stopping via KeyboardInterrupt.
+2025-09-22 18:01:28 | MT5 shutdown complete.
+2025-09-22 18:02:02 | Starting defensive SMC bot...
+2025-09-22 18:02:02 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:02:02 | Signal buy and price 1.35018 inside zone -> placing
+2025-09-22 18:02:07 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:02:08 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:02:13 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:02:13 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:02:18 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:02:18 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:02:23 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.3494), np.float64(1.35004)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:02:23 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:02:26 | Stopping via KeyboardInterrupt.
+2025-09-22 18:02:26 | MT5 shutdown complete.
+2025-09-22 18:10:31 | Starting defensive SMC bot...
+2025-09-22 18:10:31 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:10:31 | Signal buy and price 1.35053 inside zone -> placing
+2025-09-22 18:10:36 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:10:36 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:10:41 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:10:41 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:10:46 | Detected zones: {'signal': 'buy', 'fvg': (np.float64(1.35022), np.float64(1.35023)), 'liquidity_grab': None, 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 18:45:00'}
+2025-09-22 18:10:46 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:10:47 | Stopping via KeyboardInterrupt.
+2025-09-22 18:10:47 | MT5 shutdown complete.
+2025-09-22 18:21:01 | Starting defensive SMC bot...
+2025-09-22 18:21:01 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:01 | Signal found but price not in any zone.
+2025-09-22 18:21:06 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:06 | Signal found but price not in any zone.
+2025-09-22 18:21:11 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:11 | Signal found but price not in any zone.
+2025-09-22 18:21:16 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:16 | Signal found but price not in any zone.
+2025-09-22 18:21:21 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:21 | Signal found but price not in any zone.
+2025-09-22 18:21:26 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:26 | Signal found but price not in any zone.
+2025-09-22 18:21:31 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:31 | Signal found but price not in any zone.
+2025-09-22 18:21:36 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:36 | Signal found but price not in any zone.
+2025-09-22 18:21:41 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:41 | Signal found but price not in any zone.
+2025-09-22 18:21:46 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:46 | Signal found but price not in any zone.
+2025-09-22 18:21:51 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:51 | Signal found but price not in any zone.
+2025-09-22 18:21:56 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:21:57 | Signal found but price not in any zone.
+2025-09-22 18:22:02 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:02 | Signal found but price not in any zone.
+2025-09-22 18:22:07 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:07 | Signal found but price not in any zone.
+2025-09-22 18:22:12 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:12 | Signal found but price not in any zone.
+2025-09-22 18:22:17 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:17 | Signal found but price not in any zone.
+2025-09-22 18:22:22 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:22 | Signal found but price not in any zone.
+2025-09-22 18:22:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:27 | Signal found but price not in any zone.
+2025-09-22 18:22:32 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:32 | Signal found but price not in any zone.
+2025-09-22 18:22:37 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:37 | Signal found but price not in any zone.
+2025-09-22 18:22:42 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:42 | Signal found but price not in any zone.
+2025-09-22 18:22:47 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:47 | Signal found but price not in any zone.
+2025-09-22 18:22:52 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:52 | Signal found but price not in any zone.
+2025-09-22 18:22:57 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:22:57 | Signal found but price not in any zone.
+2025-09-22 18:23:02 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:02 | Signal found but price not in any zone.
+2025-09-22 18:23:07 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:07 | Signal found but price not in any zone.
+2025-09-22 18:23:12 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:12 | Signal found but price not in any zone.
+2025-09-22 18:23:17 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:17 | Signal found but price not in any zone.
+2025-09-22 18:23:22 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:22 | Signal found but price not in any zone.
+2025-09-22 18:23:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:27 | Signal found but price not in any zone.
+2025-09-22 18:23:32 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:32 | Signal found but price not in any zone.
+2025-09-22 18:23:37 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:37 | Signal found but price not in any zone.
+2025-09-22 18:23:42 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:42 | Signal found but price not in any zone.
+2025-09-22 18:23:47 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:47 | Signal found but price not in any zone.
+2025-09-22 18:23:52 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:52 | Signal found but price not in any zone.
+2025-09-22 18:23:57 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:23:57 | Signal found but price not in any zone.
+2025-09-22 18:24:02 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:02 | Signal found but price not in any zone.
+2025-09-22 18:24:07 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:07 | Signal found but price not in any zone.
+2025-09-22 18:24:13 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:13 | Signal found but price not in any zone.
+2025-09-22 18:24:18 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:18 | Signal found but price not in any zone.
+2025-09-22 18:24:23 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:23 | Signal found but price not in any zone.
+2025-09-22 18:24:28 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:28 | Signal found but price not in any zone.
+2025-09-22 18:24:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:33 | Signal found but price not in any zone.
+2025-09-22 18:24:38 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:38 | Signal found but price not in any zone.
+2025-09-22 18:24:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:43 | Signal found but price not in any zone.
+2025-09-22 18:24:48 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:48 | Signal found but price not in any zone.
+2025-09-22 18:24:53 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:53 | Signal found but price not in any zone.
+2025-09-22 18:24:58 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:24:58 | Signal found but price not in any zone.
+2025-09-22 18:25:03 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:03 | Signal found but price not in any zone.
+2025-09-22 18:25:08 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:08 | Signal found but price not in any zone.
+2025-09-22 18:25:13 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:13 | Signal found but price not in any zone.
+2025-09-22 18:25:18 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:18 | Signal found but price not in any zone.
+2025-09-22 18:25:23 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:23 | Signal found but price not in any zone.
+2025-09-22 18:25:28 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:28 | Signal found but price not in any zone.
+2025-09-22 18:25:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:33 | Signal found but price not in any zone.
+2025-09-22 18:25:38 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:38 | Signal found but price not in any zone.
+2025-09-22 18:25:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:43 | Signal found but price not in any zone.
+2025-09-22 18:25:48 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:48 | Signal found but price not in any zone.
+2025-09-22 18:25:53 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:53 | Signal found but price not in any zone.
+2025-09-22 18:25:58 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:25:58 | Signal found but price not in any zone.
+2025-09-22 18:26:03 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:04 | Signal found but price not in any zone.
+2025-09-22 18:26:09 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:09 | Signal found but price not in any zone.
+2025-09-22 18:26:14 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:14 | Signal found but price not in any zone.
+2025-09-22 18:26:20 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:20 | Signal found but price not in any zone.
+2025-09-22 18:26:25 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:25 | Signal found but price not in any zone.
+2025-09-22 18:26:30 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:30 | Signal found but price not in any zone.
+2025-09-22 18:26:35 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:35 | Signal found but price not in any zone.
+2025-09-22 18:26:40 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:40 | Signal found but price not in any zone.
+2025-09-22 18:26:45 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:45 | Signal found but price not in any zone.
+2025-09-22 18:26:50 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:50 | Signal found but price not in any zone.
+2025-09-22 18:26:55 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:26:55 | Signal found but price not in any zone.
+2025-09-22 18:27:00 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:00 | Signal found but price not in any zone.
+2025-09-22 18:27:05 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:05 | Signal found but price not in any zone.
+2025-09-22 18:27:10 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:10 | Signal found but price not in any zone.
+2025-09-22 18:27:15 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:15 | Signal found but price not in any zone.
+2025-09-22 18:27:20 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:20 | Signal found but price not in any zone.
+2025-09-22 18:27:25 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:25 | Signal found but price not in any zone.
+2025-09-22 18:27:30 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:30 | Signal found but price not in any zone.
+2025-09-22 18:27:35 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:35 | Signal found but price not in any zone.
+2025-09-22 18:27:40 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:40 | Signal found but price not in any zone.
+2025-09-22 18:27:45 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:45 | Signal found but price not in any zone.
+2025-09-22 18:27:50 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:50 | Signal found but price not in any zone.
+2025-09-22 18:27:55 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:27:55 | Signal found but price not in any zone.
+2025-09-22 18:28:00 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:00 | Signal found but price not in any zone.
+2025-09-22 18:28:05 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:05 | Signal found but price not in any zone.
+2025-09-22 18:28:10 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:10 | Signal found but price not in any zone.
+2025-09-22 18:28:15 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:15 | Signal found but price not in any zone.
+2025-09-22 18:28:20 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:20 | Signal found but price not in any zone.
+2025-09-22 18:28:26 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:26 | Signal found but price not in any zone.
+2025-09-22 18:28:31 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:31 | Signal found but price not in any zone.
+2025-09-22 18:28:36 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:36 | Signal found but price not in any zone.
+2025-09-22 18:28:41 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:41 | Signal found but price not in any zone.
+2025-09-22 18:28:46 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:46 | Signal found but price not in any zone.
+2025-09-22 18:28:51 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:51 | Signal found but price not in any zone.
+2025-09-22 18:28:56 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:28:56 | Signal found but price not in any zone.
+2025-09-22 18:29:01 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:01 | Signal found but price not in any zone.
+2025-09-22 18:29:06 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:06 | Signal found but price not in any zone.
+2025-09-22 18:29:11 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:11 | Signal found but price not in any zone.
+2025-09-22 18:29:16 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:16 | Signal found but price not in any zone.
+2025-09-22 18:29:21 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:21 | Signal found but price not in any zone.
+2025-09-22 18:29:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:27 | Signal found but price not in any zone.
+2025-09-22 18:29:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:34 | Signal found but price not in any zone.
+2025-09-22 18:29:39 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:39 | Signal found but price not in any zone.
+2025-09-22 18:29:44 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:44 | Signal found but price not in any zone.
+2025-09-22 18:29:49 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:49 | Signal found but price not in any zone.
+2025-09-22 18:29:54 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35074), np.float64(1.35093)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:00:00'}
+2025-09-22 18:29:54 | Signal found but price not in any zone.
+2025-09-22 18:29:59 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:29:59 | Signal sell and price 1.35101 inside zone -> placing
+2025-09-22 18:30:04 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:09 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:14 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:19 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:19 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:24 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:24 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:29 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:30 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:35 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:35 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:40 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:40 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:45 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:45 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:50 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:50 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:30:55 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35092)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:30:55 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:00 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.3509)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:00 | Signal sell and price 1.3509 inside zone -> placing
+2025-09-22 18:31:05 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35101)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:05 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:10 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35091)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:11 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:16 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35095)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:16 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:21 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35095)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:21 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:26 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35097)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:26 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:31 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35097)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:31 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:36 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35094)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:36 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:42 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35095)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:42 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:47 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35095)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:47 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:52 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35095)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:52 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:31:57 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35088)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:31:57 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:02 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35094)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:02 | Signal sell and price 1.35094 inside zone -> placing
+2025-09-22 18:32:07 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35094)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:07 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:12 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35092)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:12 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:17 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35094)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:17 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:22 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35094)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:22 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:27 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35091)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:27 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:32 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35091)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:32 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:37 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35084)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:37 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35085)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:48 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35085)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:48 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:53 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35083)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:53 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:32:58 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:32:58 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:03 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35078)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:03 | Signal sell and price 1.3507799999999999 inside zone -> placing
+2025-09-22 18:33:08 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35072)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:08 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:13 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35077)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:13 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:18 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:18 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:23 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35073)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:23 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:28 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:28 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:33 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:33 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:38 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:38 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:43 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35075)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:43 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:48 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35076)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:33:48 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:33:52 | Stopping via KeyboardInterrupt.
+2025-09-22 18:33:52 | MT5 shutdown complete.
+2025-09-22 18:34:34 | Starting defensive SMC bot...
+2025-09-22 18:34:34 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:34:34 | Signal sell and price 1.35067 inside zone -> placing
+2025-09-22 18:34:39 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:34:39 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:34:44 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:34:44 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:34:49 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:34:49 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:34:54 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35073)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:34:54 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:34:59 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:34:59 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:04 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:04 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:09 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35072)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:09 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:14 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35072)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:14 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:19 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35072)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:19 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:24 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35072)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:24 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:29 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35071), np.float64(1.35072)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:29 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:34 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:34 | Signal sell and price 1.35064 inside zone -> placing
+2025-09-22 18:35:39 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:39 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:44 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:44 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:49 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:50 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:35:55 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:35:55 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:00 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:00 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:05 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:05 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:10 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:10 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:15 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:15 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:20 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:20 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:25 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:25 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:30 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:31 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:36 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:36 | Signal sell and price 1.35061 inside zone -> placing
+2025-09-22 18:36:41 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:41 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:46 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:46 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:51 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:51 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:56 | Detected zones: {'signal': 'sell', 'fvg': (np.float64(1.35024), np.float64(1.35071)), 'liquidity_grab': (np.float64(1.35093), np.float64(1.35205)), 'order_block': (np.float64(1.35003), np.float64(1.35056)), 'last_closed_time': '2025-09-22 19:15:00'}
+2025-09-22 18:36:56 | No SMC detected / waiting cooldown or trading not allowed.
+2025-09-22 18:36:57 | Stopping via KeyboardInterrupt.
+2025-09-22 18:36:57 | MT5 shutdown complete.
