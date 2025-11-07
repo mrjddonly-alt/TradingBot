@@ -1,0 +1,33 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs and dumps
+*.log
+*.csv
+*.xlsx
+*.json
+
+# Environment files
+.env
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# MT5 artifacts
+*.ex5
+*.hst
+*.opt
+*.srv
+*.log
