@@ -49,7 +49,7 @@ def compute_vwap(df):
     df['cum_pv']  = (df['close'] * vol).cumsum()
     df['vwap'] = df['cum_pv'] / df['cum_vol']
     return df.drop(columns=['cum_vol','cum_pv'])
-from regime_classifier import classify_regime
+from TradingBot.regime_classifier import classify_regime
 
 # ==========================
 # Session filter (London + US overlap)
