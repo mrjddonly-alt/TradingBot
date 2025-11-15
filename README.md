@@ -1,14 +1,36 @@
-# TradingBot
+\# TradingBot
 
-An adaptive multi-asset trading bot for Forex, Gold (XAUUSD), and USTEC (Nasdaq), featuring regime classification, modular strategy logic, and walk-forward backtesting.
 
-## 📌 Features
 
-- Regime-aware strategy switching
-- VWAP-based scalping and SMC logic
-- Walk-forward backtesting (180-day training / 30-day testing)
-- MT5 integration for live data pulls
-- Transparent performance summaries and trade logs
-- Supports high-frequency scalping and weekly analysis for USTEC
+An adaptive trading engine for systematic FX, gold (XAUUSD), and USTEC strategies.
 
-## 📁 Folder Structure
+Built with modular Python scripts, regime classification, and robust backtesting logic.
+
+
+
+---
+
+
+
+\## 🚀 Features
+
+\- Modular strategy design (plug-and-play strategies)
+
+\- Regime classification (trend vs range detection)
+
+\- Walk-forward testing (180-day training, 30-day testing)
+
+\- Transaction cost handling and equity curve tracking
+
+\- Automated reporting with charts and performance summaries
+
+\- Unit tests for strategy logic and regime classification
+
+
+
+---
+
+
+
+\## 📂 Project structure
+
